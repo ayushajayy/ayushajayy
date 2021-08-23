@@ -5,6 +5,7 @@
 - 🌱 I’m currently working on building my UI skills on **Swift**.
 - 🔭 I'm currently learning __IOS developement__.
 - 📈 I have done problem solving on **Hackerrank**.
-- 📫 How to reach me: **ayushajay07@gmail.com**
-
+- 📫 How to reach me: **ayushajay07@gmail.com**!
+- 
+- [Github stats](https://github-readme-stats.vercel.app/api?ayushajayy=yourGithubUsername)
 
