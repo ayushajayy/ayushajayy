@@ -9,5 +9,5 @@
 - 
 - ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushajayy)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushajayy)](https://github.com/ayushajayy/github-readme-stats)
-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+- ###[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
  
