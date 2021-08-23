@@ -7,5 +7,6 @@
 - 📈 I have done problem solving on **Hackerrank**.
 - 📫 How to reach me: **ayushajay07@gmail.com**!
 - 
-- [Github stats](https://github-readme-stats.vercel.app/api?ayushajayy=yourGithubUsername)
+- ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushajayy)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushajayy)](https://github.com/ayushajayy/github-readme-stats)
 
